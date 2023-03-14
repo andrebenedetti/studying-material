@@ -5,3 +5,8 @@ Fastly essentials gives a good starting overview of caching
 [What is CDN](https://docs.fastly.com/en/fundamentals/what-is-cdn)
 
 [What is purging](https://docs.fastly.com/en/fundamentals/what-is-purging)
+
+
+Having that overview, MDN's documentation on caching starts diving a bit into how it works
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
